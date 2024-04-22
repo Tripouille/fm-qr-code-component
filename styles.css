@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Outfit";
+  src: url("fonts/Outfit-Regular.ttf");
+  font-weight: regular;
+  size-adjust: 109%;
+  ascent-override: 80%;
+  descent-override: 12%;
+  line-gap-override: 12%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("fonts/Outfit-Bold.ttf");
+  font-weight: bold;
+  size-adjust: 106%;
+  ascent-override: 83%;
+  descent-override: 14%;
+  line-gap-override: 10%;
+  font-display: swap;
+}
+
+.font-outfit {
+  font-family: "Outfit", "Arial";
+}
