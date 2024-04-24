@@ -47,6 +47,6 @@ This project allowed me to practice on font fallbacks and how to deploy simple p
 
 ## Author
 
-- Website - [jgambard](https://www.jgambard.com)
+- Website - [jgambard](https://jgambard.me)
 - Frontend Mentor - [@Tripouille](https://www.frontendmentor.io/profile/Tripouille)
 - Frontend Masters - [@jgambard](https://frontendmasters.com/u/jgambard/)
